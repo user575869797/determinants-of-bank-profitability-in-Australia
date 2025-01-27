@@ -1,1 +1,2 @@
 # determinants-of-bank-profitability-in-Australia
+The study analyzes the determinants of banking profitability in Australia, highlighting the influence of economic, structural, and technological factors on the financial performance of banking institutions. Additionally, the document examines the degree of market concentration, the impact of financial regulations, and the importance of technological innovations, providing recommendations for enhancing competitiveness and long-term sustainability.
